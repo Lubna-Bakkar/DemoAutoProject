@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-22T13:32:37 EET" name="Default suite" finished-at="2023-10-22T13:32:52 EET" duration-ms="14238">
+    <groups>
+    </groups>
+    <test started-at="2023-10-22T13:32:37 EET" name="Default test" finished-at="2023-10-22T13:32:52 EET" duration-ms="14238">
+      <class name="com.omayo.leftpagetest.OrderedListTest">
+        <test-method is-config="true" signature="openPage()[pri:0, instance:com.omayo.leftpagetest.OrderedListTest@23941fb4]" started-at="2023-10-22T13:32:37 EET" name="openPage" finished-at="2023-10-22T13:32:44 EET" duration-ms="6214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPage -->
+        <test-method signature="orderedListTest()[pri:0, instance:com.omayo.leftpagetest.OrderedListTest@23941fb4]" started-at="2023-10-22T13:32:44 EET" name="orderedListTest" finished-at="2023-10-22T13:32:51 EET" duration-ms="7367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderedListTest -->
+        <test-method is-config="true" signature="clouser()[pri:0, instance:com.omayo.leftpagetest.OrderedListTest@23941fb4]" started-at="2023-10-22T13:32:51 EET" name="clouser" finished-at="2023-10-22T13:32:52 EET" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clouser -->
+      </class> <!-- com.omayo.leftpagetest.OrderedListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
